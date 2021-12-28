@@ -1,0 +1,444 @@
+@charset "utf-8";
+#header {
+    width: 1025px;
+    height: 100px;
+    text-align: center;
+}
+#header #se img {
+    text-align: center;
+    margin-top: -90px;
+
+}
+#nav {
+    width: 1025px;
+    height: 60px;
+    background-color: #7CC576;
+}
+#nav a {
+    color: #FFFFFF;
+    padding-right: 26px;
+    padding-left: 26px;
+    text-decoration: none;
+    text-transform: none;
+    margin-top: 28px;
+}
+#nav section {
+    padding-top: 29px;
+ 
+}
+#sidebar1 {
+    width: 200px;
+    height: 600px;
+    text-align: right;
+}
+
+
+#main {
+    width: 624px;
+    height: 600px;
+    margin-top: -600px;
+    margin-left: 200px;
+    font-size: x-large;
+    text-align: center;
+}
+#main section {
+    padding-top: 30px;
+    text-align: right;
+    font-variant: normal;
+
+}
+#main #se1 {
+    color: rgba(0,0,0,1.00);
+    font-size: x-large;
+    padding-left: 0px;
+    text-align: right;
+}
+#main p {
+    color: rgba(0,0,0,1.00);
+    padding-right: 45px;
+    font-size: medium;
+    text-align: right;
+
+
+}
+
+#sidebar2 {
+    width: 253px;
+    height: 522px;
+    float: right;
+    margin-top: -600px;
+    padding-top: 94px;
+    margin-right: 0px;
+    background-color: rgba(199,225,163,1.00);
+}
+
+body div {
+    position: relative;
+    width: 1025px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer {
+    width: 1025px;
+    height: 40px;
+    background-color: #7CC576;
+    text-align: left;
+}
+#footer p {
+    margin-right: 30px;
+    padding-top: 10px;
+    text-align: right;
+}
+#se2 {
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 81px;
+    margin-top: -37px;
+    margin-bottom: 25px;
+}
+tr th img {
+
+
+
+
+
+
+
+}
+#sidebar2 hr {
+    border-color: rgba(19,91,8,1.00);
+    border-style: dashed;
+}
+table tbody tr {
+    background-color: rgba(225,239,207,1.00);
+    text-align: center;
+}
+#main section img {
+    margin-right: 0px;
+    padding-right: 188px;
+}
+#sidebar1 #sidetext {
+    padding-top: 67px;
+    text-decoration: none;
+}
+ul li a {
+    text-decoration: none;
+}
+
+#sidetext hr {
+    border-color: rgba(0,132,255,1.00);
+}
+#sidebar2 table {
+    margin-top: 36px;
+    padding-top: 33px;
+}
+#sidebar2 #se2 {
+    margin-left: 36px;
+    padding-top: 15px;
+}
+#main #se3 {
+    text-align: center;
+    font-size: xx-large;
+}
+#main #sidetext {
+    font-size: large;
+    padding-top: 0px;
+}
+#main #sidetext ul {
+    text-align: right;
+    color: rgba(6,88,15,1.00);
+}
+#sec strong a {
+    text-decoration: none;
+    text-align: center;
+    border-left-color: rgba(27,98,19,1.00);
+    border-left-width: thin;
+    color: rgba(59,154,22,1);
+    margin-left: -108px;
+}
+#main #sec {
+    border-color: rgba(6,83,5,1.00);
+    border-width: thin;
+    color: rgba(49,95,30,1.00);
+}
+#main img {
+    padding-left: 0px;
+    padding-right: 234px;
+    margin-bottom: -50px;
+
+}
+tr td img {
+    margin-right: 20px;
+    text-align: center;
+    position: relative;
+    margin-top: -24px;
+    margin-left: 0px;
+}
+#table  {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+#sidebar1 table {
+    margin-left: 15px;
+
+
+
+
+
+}
+tr th img {
+
+
+
+
+
+}
+#main #map {
+    padding-left: 0px;
+    padding-right: 150px;
+    padding-top: 48px;
+}
+#sidetext p {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    margin-top: -10px;
+}
+#sidebar2 ul {
+    color: rgba(11,76,77,1.00);
+    text-align: right;
+    padding-top: 10px;
+    font-size: large;
+    margin-top: 38px;
+}
+#link {
+    padding-top: 60px;
+    padding-left: 88px;
+    text-align: center;
+    text-decoration: none;
+
+
+
+}
+#main ul li {
+    font-size: medium;
+    color: rgba(0,21,5,1.00);
+}
+#main #se4 {
+    text-align: right;
+    margin-right: 98px;
+    color: rgba(0,98,15,1.00);
+}
+#main #se5 {
+    color: rgba(0,98,15,1.00);
+    padding-top: 8px;
+    margin-right: 97px;
+}
+#main #h1 {
+    text-align: center;
+    color: rgba(0,0,0,1.00);
+    font-size: x-large;
+
+}
+#main #h2 {
+    margin-top: -16px;
+    text-align: right;
+    padding-right: 102px;
+    color: rgba(0,0,0,1.00);
+}
+#main ul {
+    color: rgba(33,135,133,1.00);
+    text-align: right;
+}
+#main #h3 {
+    text-align: right;
+    color: rgba(0,0,0,1.00);
+    margin-right: 97px;
+}
+#main ul {
+    color: rgba(0,0,0,1.00);
+}
+#sidebar2 img {
+    border: thin double rgba(35,135,166,1.00);
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+
+
+
+}
+#sidebar2 a {
+    text-decoration: none;
+    text-align: center;
+    color: rgba(159,55,57,1);
+}
+#sidebar2 #h4 {
+    margin-top: 20px;
+}
+#main #sec1 {
+    color: rgba(0,0,0,1.00);
+    text-align: right;
+    padding-right: 70px;
+}
+#sidebar2 img {
+
+
+
+
+
+
+
+
+}
+#main video {
+    margin-right: 180px;
+    margin-top: 61px;
+    width: 500px;
+
+
+}
+#sidebar2 {
+}
+#sidebar2 img {
+    padding-top: 0px;
+    margin-top: -40px;
+    margin-left: 1px;
+
+
+}
+#main #section1 {
+    text-align: right;
+    margin-right: 67px;
+}
+#main ol {
+    font-size: large;
+    text-align: right;
+    padding-right: 90px;
+    color: rgba(7,75,139,1.00);
+}
+#main ol p {
+    color: rgba(85,71,71,1.00);
+}
+#sidebar2 img {
+    padding-top: 3px;
+    margin-top: -90px;
+
+}
+#main #h5 {
+    text-align: right;
+    padding-top: 50px;
+    margin-right: 80px;
+}
+#main ul li {
+    color: rgba(33,146,102,1.00);
+    margin-top: 3px;
+    font-size: large;
+}
+#main #h6 {
+    text-align: right;
+    margin-right: 68px;
+}
+#sidetext p strong {
+    margin-right: -60px;
+
+
+
+}
+#sidebar2 #img img {
+    border: thick dotted rgba(21,109,146,1.00);
+}
+#main img {
+    padding-top: 26px;
+    padding-right: 0px;
+    padding-bottom: 40px;
+
+}
+#section2  {
+    color: rgba(201,27,30,1.00);
+}
+#main #set {
+    padding-right: 160px;
+    color: rgba(0,63,60,1);
+
+
+
+}
+#main ul {
+    padding-right: 90px;
+
+
+
+}
+#main #sec {
+    margin-top: -25px;
+    margin-right: 266px;
+
+}
+#img4 {
+    margin-top: 17px;
+}
+#diet {
+    padding-right: 73px;
+}
+#main p {
+    margin-right: 32px;
+    margin-top: 19px;
+    color: rgba(7,73,128,1);
+    font-size: large;
+}
+#main ul {
+    margin-top: 35px;
+}
+section p strong {
+    margin-right: 75px;
+    margin-top: 31px;
+
+
+}
+#main #img1 img {
+    margin-top: -44px;
+}
+#main #p strong {
+    margin-right: 84px;
+
+}
+#main #min {
+    margin-right: 165px;
+}
+#main p {
+    padding-top: 10px;
+
+}
+#main ul {
+    margin-top: 2px;
+
+
+}
+#footer img {
+    margin-top: -79px;
+    padding-bottom: 22px;
+    padding-right: 8px;
+
+
+}
